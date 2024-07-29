@@ -1,2 +1,2 @@
-# Robospaeker
-It is a simple python project which converts tect into speech
+# Robospeaker
+It is a simple python project which converts text into speech
